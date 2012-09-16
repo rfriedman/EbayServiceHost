@@ -1,0 +1,15 @@
+C:\Users\richard\Documents\Visual Studio 2010\Projects\EbayFactory\EbayServiceHost\bin\EbayServiceHost.dll
+C:\Users\richard\Documents\Visual Studio 2010\Projects\EbayFactory\EbayServiceHost\bin\EbayServiceHost.pdb
+C:\Users\richard\Documents\Visual Studio 2010\Projects\EbayFactory\EbayServiceHost\bin\EbayFactory.dll
+C:\Users\richard\Documents\Visual Studio 2010\Projects\EbayFactory\EbayServiceHost\bin\eBay.Services.dll
+C:\Users\richard\Documents\Visual Studio 2010\Projects\EbayFactory\EbayServiceHost\bin\eBay.Service.dll
+C:\Users\richard\Documents\Visual Studio 2010\Projects\EbayFactory\EbayServiceHost\bin\Samples.Helper.dll
+C:\Users\richard\Documents\Visual Studio 2010\Projects\EbayFactory\EbayServiceHost\bin\SLF.dll
+C:\Users\richard\Documents\Visual Studio 2010\Projects\EbayFactory\EbayServiceHost\bin\EbayFactory.pdb
+C:\Users\richard\Documents\Visual Studio 2010\Projects\EbayFactory\EbayServiceHost\bin\eBay.Services.pdb
+C:\Users\richard\Documents\Visual Studio 2010\Projects\EbayFactory\EbayServiceHost\bin\eBay.Service.xml
+C:\Users\richard\Documents\Visual Studio 2010\Projects\EbayFactory\EbayServiceHost\bin\Samples.Helper.pdb
+C:\Users\richard\Documents\Visual Studio 2010\Projects\EbayFactory\EbayServiceHost\bin\Samples.Helper.xml
+C:\Users\richard\Documents\Visual Studio 2010\Projects\EbayFactory\EbayServiceHost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\richard\Documents\Visual Studio 2010\Projects\EbayFactory\EbayServiceHost\obj\Debug\EbayServiceHost.dll
+C:\Users\richard\Documents\Visual Studio 2010\Projects\EbayFactory\EbayServiceHost\obj\Debug\EbayServiceHost.pdb

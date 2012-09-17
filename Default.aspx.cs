@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
+using EbayFactory;
 
 namespace EbayServiceHost
 {
@@ -11,6 +12,8 @@ namespace EbayServiceHost
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+      
+
             Response.Redirect("~/EbayService.svc");
         }
     }

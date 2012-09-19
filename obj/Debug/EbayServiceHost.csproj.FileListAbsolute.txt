@@ -13,3 +13,18 @@ C:\Users\richard\Documents\Visual Studio 2010\Projects\EbayFactory\EbayServiceHo
 C:\Users\richard\Documents\Visual Studio 2010\Projects\EbayFactory\EbayServiceHost\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\richard\Documents\Visual Studio 2010\Projects\EbayFactory\EbayServiceHost\obj\Debug\EbayServiceHost.dll
 C:\Users\richard\Documents\Visual Studio 2010\Projects\EbayFactory\EbayServiceHost\obj\Debug\EbayServiceHost.pdb
+C:\Users\richard\Documents\GitHub\EbayApp\AppServiceHost\ebayservicehost\bin\EbayServiceHost.dll
+C:\Users\richard\Documents\GitHub\EbayApp\AppServiceHost\ebayservicehost\bin\EbayServiceHost.pdb
+C:\Users\richard\Documents\GitHub\EbayApp\AppServiceHost\ebayservicehost\bin\eBay.Services.dll
+C:\Users\richard\Documents\GitHub\EbayApp\AppServiceHost\ebayservicehost\bin\eBay.Service.dll
+C:\Users\richard\Documents\GitHub\EbayApp\AppServiceHost\ebayservicehost\bin\Samples.Helper.dll
+C:\Users\richard\Documents\GitHub\EbayApp\AppServiceHost\ebayservicehost\bin\SLF.dll
+C:\Users\richard\Documents\GitHub\EbayApp\AppServiceHost\ebayservicehost\bin\EbayFactory.pdb
+C:\Users\richard\Documents\GitHub\EbayApp\AppServiceHost\ebayservicehost\bin\eBay.Services.pdb
+C:\Users\richard\Documents\GitHub\EbayApp\AppServiceHost\ebayservicehost\bin\eBay.Service.xml
+C:\Users\richard\Documents\GitHub\EbayApp\AppServiceHost\ebayservicehost\bin\Samples.Helper.pdb
+C:\Users\richard\Documents\GitHub\EbayApp\AppServiceHost\ebayservicehost\bin\Samples.Helper.xml
+C:\Users\richard\Documents\GitHub\EbayApp\AppServiceHost\ebayservicehost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\richard\Documents\GitHub\EbayApp\AppServiceHost\ebayservicehost\obj\Debug\EbayServiceHost.dll
+C:\Users\richard\Documents\GitHub\EbayApp\AppServiceHost\ebayservicehost\obj\Debug\EbayServiceHost.pdb
+C:\Users\richard\Documents\GitHub\EbayApp\AppServiceHost\ebayservicehost\bin\EbayFactory.dll

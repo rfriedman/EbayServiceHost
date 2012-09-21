@@ -13,3 +13,8 @@ C:\Users\richard\Documents\Visual Studio 2010\Projects\EbayFactory\EbayServiceHo
 C:\Users\richard\Documents\Visual Studio 2010\Projects\EbayFactory\EbayServiceHost\obj\Debug\ResolveAssemblyReference.cache
 C:\Users\richard\Documents\Visual Studio 2010\Projects\EbayFactory\EbayServiceHost\obj\Debug\EbayServiceHost.dll
 C:\Users\richard\Documents\Visual Studio 2010\Projects\EbayFactory\EbayServiceHost\obj\Debug\EbayServiceHost.pdb
+C:\Users\richard\Documents\GitHub\EbayApp\AppServiceHost\ebayservicehost\bin\EbayServiceHost.dll
+C:\Users\richard\Documents\GitHub\EbayApp\AppServiceHost\ebayservicehost\bin\EbayServiceHost.pdb
+C:\Users\richard\Documents\GitHub\EbayApp\AppServiceHost\ebayservicehost\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\richard\Documents\GitHub\EbayApp\AppServiceHost\ebayservicehost\obj\Debug\EbayServiceHost.dll
+C:\Users\richard\Documents\GitHub\EbayApp\AppServiceHost\ebayservicehost\obj\Debug\EbayServiceHost.pdb
